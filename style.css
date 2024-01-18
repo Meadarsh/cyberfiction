@@ -174,11 +174,16 @@ canvas{
 
 }
 .box{
-    height:50px;
-    padding:10px;
+    border-radius:20px;
+    padding:5px;
     color:white;
     background-color:black;
     border:2px solid black;
+}
+.box a{
+color:white;
+    text-decoration:none;
+    underline:none;
 }
 .box:hover{
     border: white;
