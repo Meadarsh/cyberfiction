@@ -184,6 +184,7 @@ canvas{
 color:white;
     text-decoration:none;
     underline:none;
+    text-transform:uppercase;
 }
 .box:hover{
     border: white;
