@@ -175,10 +175,10 @@ canvas{
 }
 .box{
     border-radius:20px;
-    padding:5px;
+    padding:7px;
     color:white;
     background-color:black;
-    border:2px solid black;
+    border:1px solid black;
 }
 .box a{
 color:white;
